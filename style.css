@@ -1,0 +1,27 @@
+*{
+    color: black;
+    background-color: darkslategrey   
+}
+.inner{
+    padding: 70px 70px; 
+    margin-left: 300px;
+}
+#brand{
+    border-radius: 15px;
+    border: 20px;
+    background-color: lightslategrey;
+    height: 20px;
+}
+#model{
+    border-radius: 15px;
+    background-color: lightslategrey;
+    height: 20px;
+}
+.btn{
+    padding-left: 10px;
+    margin-left: 439px;
+    margin-bottom: 100px;
+    color: lightseagreen;
+    background-color: darkslategrey;
+    border-radius: 10px;
+}
